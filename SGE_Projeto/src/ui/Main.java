@@ -20,7 +20,7 @@ public class Main {
         t1.adicionarAluno(a2);
 
         System.out.println("--- BEM-VINDO AO SGE EDUCONNECT ---");
-        System.out.println("Aluno: [SEU NOME AQUI] - Versão Final"); // Adicione seu nome para o Print!
+        System.out.println("Aluno: Bárbara Thauanny Aparecida Oliveira - Versão Final"); // Adicione seu nome para o Print!
         menu();
     }
 
@@ -170,4 +170,5 @@ public class Main {
             default: System.out.println("Opção inválida");
         }
     }
+
 }
