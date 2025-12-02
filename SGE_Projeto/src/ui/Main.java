@@ -20,7 +20,7 @@ public class Main {
         t1.adicionarAluno(a2);
 
         System.out.println("--- BEM-VINDO AO SGE EDUCONNECT ---");
-        System.out.println("Aluno: Bárbara Thauanny Aparecida Oliveira - Versão Final"); // Adicione seu nome para o Print!
+        System.out.println("Aluno: Bárbara Thauanny Aparecida Oliveira - Versão Final"); 
         menu();
     }
 
@@ -58,7 +58,7 @@ public class Main {
         }
     }
 
-    // Métodos de UI (Os mesmos da resposta anterior, agora validados e completos)
+    // Métodos de UI
 
     private static void cadastrarAlunoUI(){
         System.out.print("Nome: "); String nome = sc.nextLine();
@@ -172,3 +172,4 @@ public class Main {
     }
 
 }
+
